@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/Uniquebots123/text
+    repo: https://github.com/UniqueBots123/Text
     branch: main
     autoDeploy: false
     envVars:
